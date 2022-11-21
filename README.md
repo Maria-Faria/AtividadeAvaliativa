@@ -12,7 +12,12 @@
 <img src = "https://user-images.githubusercontent.com/114308727/203126265-2d41cf88-18e8-41c7-9c97-68b0c3355727.png">
 
 - Se o usuário escolher "Chefe", o programa pede o salário semanal do empregado e calcula seu salário mensal, admitindo que um mês possui 4 semanas
-<img src = "https://user-images.githubusercontent.com/114308727/203126915-316b4ead-82aa-471a-8431-ab53de7a3902.png">
+
+<div style = "display: inline_block">
+  <img align = "center" alt = "SalarioSemanal" src = "https://user-images.githubusercontent.com/114308727/203126915-316b4ead-82aa-471a-8431-ab53de7a3902.png">
+  <img align = "center" alt = "SalarioMensal" src = "https://user-images.githubusercontent.com/114308727/203127618-de259721-de00-4aa8-a97d-f609b1fb26c4.png">
+</div>                                                                                                                  
+
 
 
 
