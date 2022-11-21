@@ -17,7 +17,13 @@
   <img align = "center" alt = "SalarioSemanal" src = "https://user-images.githubusercontent.com/114308727/203126915-316b4ead-82aa-471a-8431-ab53de7a3902.png">
   <img align = "center" alt = "SalarioMensal" src = "https://user-images.githubusercontent.com/114308727/203127618-de259721-de00-4aa8-a97d-f609b1fb26c4.png">
 </div>                                                                                                                  
+<br>
 
+- Caso escolha "Comissionado", o programa irá pedir que o usuário informe o salário do empregado, o valor da comissão sobre as vendas, a quantidade de vendas e irá calcular seu salário final da seguinte forma: salario + (comissao * quantidade)
+
+- Se escolher "Hora", o usuário deve informar o salário do empregado por hora e a quantidade de horas trabalhadas, assim, o ganho do empregado será calculado por salarioHora * horas
+
+- Por fim, caso o usuário escolha "Peça Produzida", ele deve informar a remuneração do empregado por peça produzida e a quantidade de peças produzidas, dessa forma, o programa retornará o salário final do empregado por meio do seguinte cálculo remuneracao * quantidade
 
 
 
