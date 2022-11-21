@@ -11,4 +11,8 @@
 - Depois, o usuário deve selecionar um tipo de funcionário, para que o código possa realizar o cálculo de seu salário
 <img src = "https://user-images.githubusercontent.com/114308727/203126265-2d41cf88-18e8-41c7-9c97-68b0c3355727.png">
 
+- Se o usuário escolher "Chefe", o programa pede o salário semanal do empregado e calcula seu salário mensal, admitindo que um mês possui 4 semanas
+<img src = "https://user-images.githubusercontent.com/114308727/203126915-316b4ead-82aa-471a-8431-ab53de7a3902.png">
+
+
 
