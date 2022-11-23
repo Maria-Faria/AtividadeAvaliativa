@@ -25,5 +25,18 @@
 
 - Por fim, caso o usuário escolha "Peça Produzida", ele deve informar a remuneração do empregado por peça produzida e a quantidade de peças produzidas, dessa forma, o programa retornará o salário final do empregado por meio do seguinte cálculo remuneracao * quantidade
 
+# Exercício 3
+- Nesse exercício, o objetivo é treinar a manipulação de arquivos em java
+- Primeiramente, ao executar o código, será criado um arquivo chamado "loja.txt", por meio da função abaixo, que recebe como parâmetro o nome do arquivo e retorna esse arquivo depois de criado
 
+<img width = 550 src = "https://user-images.githubusercontent.com/114308727/203576512-ab12aa0b-652f-4e70-a957-bf6fe9e87304.png">
 
+- O arquivo "loja.txt" será preenchido com informações que constam no ArrayList<Loja> cadastro, que por sua vez foi preenchido na seguinte função
+
+<img width = 420 src = "https://user-images.githubusercontent.com/114308727/203577826-64333831-38bb-4768-ad9c-b5529cd41d5a.png">
+
+- Depois, o arquivo "loja.txt" será lido e as informações contidas nele serão separadas pelo código da filial e guardadas no ArrayList de cada filial
+
+- Serão criados 4 arquivos - um para cada filial - com as informações das respectivas filiais
+
+- Por fim, os quatro arquivos serão lidos e o valor total de vendas de cada filial será calculado e escrito no próprio arquivo, assim como o valor médio de vendas de cada filial
